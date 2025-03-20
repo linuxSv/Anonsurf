@@ -11,7 +11,7 @@ sudo dpkg -i '/home/agdala/Descargas/anonsurf_5.0.0+parrot1_amd64.deb'
 
 sudo dpkg -i '/home/agdala/Descargas/anonsurf-cli_5.0.0+parrot1_amd64.deb' 
 
-si se necesita nix para correrlo
+si se necesita nyx para correrlo
 
 sudo apt install nyx
 
